@@ -13,3 +13,8 @@
 
 
 ![opencv](https://github.com/user-attachments/assets/cdf3247c-4e18-486c-bbbf-522e67794046) --> opencv.png
+
+![work](https://github.com/user-attachments/assets/32920eaa-dfd2-4915-bfd8-7ac5229ef5d7) --> work.jpg
+
+![MIUI](https://github.com/user-attachments/assets/89dbc363-6b2b-4875-afb8-acd39568b19a) --> MIUI.jpg
+
