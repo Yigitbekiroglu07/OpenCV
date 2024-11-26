@@ -1,4 +1,4 @@
-# OpenCV Turkcell Geleceği Yazanlar Dersi Uygulamaları
+# OpenCV Turkcell Geleceği Yazanlar Kursu Uygulamaları
 
 ![flag](https://github.com/user-attachments/assets/bb7acf04-1cb4-409f-876f-8345816e4b8f) --> flag.jpg
 
