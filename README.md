@@ -18,3 +18,15 @@
 
 ![MIUI](https://github.com/user-attachments/assets/89dbc363-6b2b-4875-afb8-acd39568b19a) --> MIUI.jpg
 
+![orman](https://github.com/user-attachments/assets/b775fb31-43c1-480f-a508-c019c96d0acf) --> orman.jpg
+
+![cry](https://github.com/user-attachments/assets/494fcff6-d5d9-40d9-bee3-2539f790ebd4) --> cry.jpg
+
+![ataturk](https://github.com/user-attachments/assets/2d3ccc77-ef41-4e5b-abab-2ef1951396b8) --> ataturk.jpg
+
+![anadearmas](https://github.com/user-attachments/assets/a761635c-ee1e-44f9-8991-49245c864439) ---> anadearmas.jpg
+
+https://github.com/user-attachments/assets/2872cc38-2d23-4ce8-8254-640490c732c1 --> test.mp4
+
+
+
