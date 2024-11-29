@@ -32,5 +32,15 @@ https://github.com/user-attachments/assets/2872cc38-2d23-4ce8-8254-640490c732c1 
 
 ![flower](https://github.com/user-attachments/assets/cbe95faa-cc11-4fff-b015-f0d0bcaff848) --> flower.jpg
 
+![chessboard](https://github.com/user-attachments/assets/6c7fd8b5-41cb-4d24-ac12-4c73de8307fb) --> chessboard.jpg
+
+![blok](https://github.com/user-attachments/assets/11c0f3a7-636a-4eac-a458-f0cba41113d3) --> blok.jpg
+
+![pedestrian](https://github.com/user-attachments/assets/9fb9bcba-da52-4ae8-9ef0-3145b550ea2b) --> pedestrian.jpg
+
+![test1](https://github.com/user-attachments/assets/fb37c5f0-845c-4aa5-b92f-9f9ff45ffb86) --> test1.png
+
+
+
 
 
