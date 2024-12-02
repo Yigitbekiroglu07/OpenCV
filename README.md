@@ -40,6 +40,10 @@ https://github.com/user-attachments/assets/2872cc38-2d23-4ce8-8254-640490c732c1 
 
 ![test1](https://github.com/user-attachments/assets/fb37c5f0-845c-4aa5-b92f-9f9ff45ffb86) --> test1.png
 
+![qrcode](https://github.com/user-attachments/assets/4094dc5a-b7c6-46d6-b798-7a1b44e0cc4a) --> qrcode.png
+
+
+
 
 
 
